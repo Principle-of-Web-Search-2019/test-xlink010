@@ -1,0 +1,12 @@
+备注：windows10
+
+1.初始配置：
+	1)设置你的用户名称与邮件地址
+	git config --global user.name "your_name"
+	git config --global user.email "your_email"
+	查找当前git配置
+	git config --list
+	查找当前某项配置
+	git config keyword (keyword可以为user.name等)
+	 config 命令的手册
+	$ git help config
